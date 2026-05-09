@@ -1,0 +1,11 @@
+
+pandas → data handling
+numpy → numerical operations
+matplotlib → visualization
+seaborn → charts/EDA
+scikit-learn → ML models
+jupyter + notebook → notebook environment
+scipy → ML/statistical operations
+joblib → model saving/loading
+openpyxl → Excel support
+xgboost → advanced ML model support
